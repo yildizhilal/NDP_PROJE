@@ -1,0 +1,10 @@
+C:\Users\HİLAL YILDIZ\Source\Repos\PDP_PROJE\bin\Debug\PDP_PROJE.exe.config
+C:\Users\HİLAL YILDIZ\Source\Repos\PDP_PROJE\bin\Debug\PDP_PROJE.exe
+C:\Users\HİLAL YILDIZ\Source\Repos\PDP_PROJE\bin\Debug\PDP_PROJE.pdb
+C:\Users\HİLAL YILDIZ\Source\Repos\PDP_PROJE\obj\Debug\PDP_PROJE.csprojAssemblyReference.cache
+C:\Users\HİLAL YILDIZ\Source\Repos\PDP_PROJE\obj\Debug\PDP_PROJE.Form1.resources
+C:\Users\HİLAL YILDIZ\Source\Repos\PDP_PROJE\obj\Debug\PDP_PROJE.Properties.Resources.resources
+C:\Users\HİLAL YILDIZ\Source\Repos\PDP_PROJE\obj\Debug\PDP_PROJE.csproj.GenerateResource.cache
+C:\Users\HİLAL YILDIZ\Source\Repos\PDP_PROJE\obj\Debug\PDP_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\HİLAL YILDIZ\Source\Repos\PDP_PROJE\obj\Debug\PDP_PROJE.exe
+C:\Users\HİLAL YILDIZ\Source\Repos\PDP_PROJE\obj\Debug\PDP_PROJE.pdb
